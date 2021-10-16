@@ -1,5 +1,6 @@
 <?php
 
+use Carbon\Carbon;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 
@@ -15,5 +16,19 @@ use Inertia\Inertia;
 */
 
 Route::get('/', function () {
-    return Inertia::render('Welcome');
-});
+    return Inertia::render('Home');
+})->name('Home');
+
+Route::get('/users', function () {
+    return Inertia::render('Users', [
+        'time' => Carbon::now()->toTimeString()
+    ]);
+})->name('Users');
+
+Route::get('/settings', function () {
+    return Inertia::render('Settings');
+})->name('Settings');
+
+Route::post('/logout', function () {
+    dd('logged out');
+})->name('LogOut');
