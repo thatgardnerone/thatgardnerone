@@ -22,10 +22,16 @@
     <img src="./public/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">ThatGardnerOne</h3>
+<h3 align="center">
+    <a href="https://thatgardnerone.com">ThatGardnerOne</a>
+</h3>
+<p align="center">
+TGO provides cutting edge digital services, from web design and development, to server management, and hosting, and everything in between, including photography, videography and graphics.
 
-  <p align="center">
-    (thatgardnerone.com)[https://thatgardnerone.com]  
+If you which to contact me regarding any of these services, or to ask for help with something different, please see the Contact section below to get in touch.
+</p>
+
+  <p align="center"> 
     <br />
     <a href="https://github.com/thatgardnerone/thatgardnerone"><strong>Explore the docs »</strong></a>
     <br />
@@ -65,14 +71,13 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
+Details coming soon! Check back later for updates.
 
 [![That Gardner One Screen Shot](./public/images/screenshot.png)](https://thatgardnerone.com)
 
-TGO provides cutting edge digital services, from web design and development, to server management,
-and hosting, and everything in between, including photography, videography and graphics.
-
-If you which to contact me regarding any of these services, or to ask for help with something different, please see the Contact section below to get in touch.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -87,9 +92,7 @@ If you which to contact me regarding any of these services, or to ask for help w
 
 ## Getting Started
 
-
 ### Prerequisites
-
 
 ### Installation
 
@@ -155,26 +158,34 @@ Project Link: [https://github.com/thatgardnerone/thatgardnerone](https://github.
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-url]: https://github.com/thatgardnerone/thatgardnerone/graphs/contributors
 
 [forks-shield]: https://img.shields.io/github/forks/thatgardnerone/thatgardnerone.svg?style=for-the-badge
+
 [forks-url]: https://github.com/thatgardnerone/thatgardnerone/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/thatgardnerone/thatgardnerone.svg?style=for-the-badge
+
 [stars-url]: https://github.com/thatgardnerone/thatgardnerone/stargazers
 
 [watchers-shield]: https://img.shields.io/github/watchers/thatgardnerone/thatgardnerone.svg?style=for-the-badge
+
 [watchers-url]: https://github.com/thatgardnerone/thatgardnerone/watchers
 
 [issues-shield]: https://img.shields.io/github/issues/thatgardnerone/thatgardnerone.svg?style=for-the-badge
+
 [issues-url]: https://github.com/thatgardnerone/thatgardnerone/issues
 
 [license-shield]: https://img.shields.io/github/license/thatgardnerone/thatgardnerone.svg?style=for-the-badge
+
 [license-url]: https://github.com/thatgardnerone/thatgardnerone/blob/main/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
 [linkedin-url]: https://linkedin.com/in/thatgardnerone
