@@ -11,6 +11,7 @@ set('application', 'thatgardnerone.com');
 
 set('repository', 'git@github.com:thatgardnerone/thatgardnerone');
 set('branch', 'main');
+set('tag', 'v0.1');
 
 add('shared_files', []);
 add('shared_dirs', []);
