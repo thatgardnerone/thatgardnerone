@@ -7,7 +7,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![GitHub branch checks state](https://img.shields.io/github/checks-status/thatgardnerone/thatgardnerone/main?style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/thatgardnerone/thatgardnerone?style=for-the-badge)](https://github.com/thatgardnerone/thatgardnerone/issues)
 [![Apache License][license-shield]][license-url]
 [![GitHub forks][forks-shield]][forks-url]
