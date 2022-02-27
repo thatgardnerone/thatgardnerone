@@ -1,7 +1,7 @@
 <template>
     <Head title="Coming Soon" />
     <FullScreenWithImage
-        :image="'https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8'">
+        :image="'/images/retro-background.jpeg'">
         <p class="text-md font-semibold text-sky-500 tracking-wide uppercase">
             Great things are coming, just wait!
         </p>
