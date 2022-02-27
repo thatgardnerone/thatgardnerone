@@ -26744,7 +26744,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-  "class": "text-sm font-semibold text-black text-opacity-50 tracking-wide uppercase"
+  "class": "text-md font-semibold text-sky-500 tracking-wide uppercase"
 }, " Coming soon ", -1
 /* HOISTED */
 );
@@ -26755,18 +26755,12 @@ var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 /* HOISTED */
 );
 
-var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-  "class": "mt-2 text-lg font-medium text-white text-opacity-50"
-}, " Check back soon for updates. ", -1
-/* HOISTED */
-);
-
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createBlock)($setup["FullScreenWithImage"], {
     image: 'https://images.unsplash.com/photo-1516490441364-4d611447d0f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8'
   }, {
     "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
-      return [_hoisted_1, _hoisted_2, _hoisted_3];
+      return [_hoisted_1, _hoisted_2];
     }),
     _: 1
     /* STABLE */
