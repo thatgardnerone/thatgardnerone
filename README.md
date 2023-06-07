@@ -25,9 +25,9 @@
     <a href="https://thatgardnerone.com">ThatGardnerOne</a>
 </h3>
 <p align="center">
-TGO provides cutting edge digital services, from web design and development, to server management, and hosting, and everything in between, including photography, videography and graphics.
+TGO provides cutting edge digital services, from web design and development, to server management and hosting, as well as everything in between, including photography, videography and graphics.
 
-If you which to contact me regarding any of these services, or to ask for help with something different, please see the Contact section below to get in touch.
+If you wish to contact me regarding any of these services, or to ask for help with something different, please see the Contact section below to get in touch.
 </p>
 
   <p align="center"> 
