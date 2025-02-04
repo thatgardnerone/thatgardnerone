@@ -20,7 +20,6 @@
   <a href="https://github.com/thatgardnerone/thatgardnerone">
     <img src="./public/images/logo.png" alt="Logo" width="80" height="80">
   </a>
-</div>
 
 <!-- CONTACT -->
 
@@ -28,7 +27,8 @@
 
 Jamie Gardner - [@thatgardnerone](https://x.com/thatgardnerone) - jamie@thatgardnerone.com
 
-Project Link: [https://github.com/thatgardnerone/thatgardnerone](https://github.com/thatgardnerone/thatgardnerone)
+
+</div>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
