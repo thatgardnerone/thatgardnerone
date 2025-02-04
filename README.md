@@ -7,12 +7,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<div align="center">
 [![GitHub issues](https://img.shields.io/github/issues/thatgardnerone/thatgardnerone?style=for-the-badge)](https://github.com/thatgardnerone/thatgardnerone/issues)
 [![Apache License][license-shield]][license-url]
 [![GitHub forks][forks-shield]][forks-url]
 [![GitHub stars][stars-shield]][stars-url]
 [![GitHub watchers][watchers-shield]][watchers-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -20,27 +22,6 @@
   <a href="https://github.com/thatgardnerone/thatgardnerone">
     <img src="./public/images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
-<h3 align="center">
-    <a href="https://thatgardnerone.com">ThatGardnerOne</a>
-</h3>
-<p align="center">
-TGO provides cutting edge digital services, from web design and development, to server management and hosting, as well as everything in between, including photography, videography and graphics.
-
-If you wish to contact me regarding any of these services, or to ask for help with something different, please see the Contact section below to get in touch.
-</p>
-
-  <p align="center"> 
-    <br />
-    <a href="https://github.com/thatgardnerone/thatgardnerone"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/thatgardnerone/thatgardnerone">View Demo</a>
-    ·
-    <a href="https://github.com/thatgardnerone/thatgardnerone/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/thatgardnerone/thatgardnerone/issues">Request Feature</a>
-  </p>
 </div>
 
 <!-- CONTACT -->
