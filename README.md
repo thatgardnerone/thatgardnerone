@@ -7,14 +7,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<div align="center">
 [![GitHub issues](https://img.shields.io/github/issues/thatgardnerone/thatgardnerone?style=for-the-badge)](https://github.com/thatgardnerone/thatgardnerone/issues)
 [![Apache License][license-shield]][license-url]
 [![GitHub forks][forks-shield]][forks-url]
 [![GitHub stars][stars-shield]][stars-url]
 [![GitHub watchers][watchers-shield]][watchers-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</div>
 
 <!-- PROJECT LOGO -->
 <br />
